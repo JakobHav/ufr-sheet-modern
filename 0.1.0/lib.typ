@@ -9,8 +9,6 @@
 #let conf(
   date: "",
   title: "",
-  semester: "",
-  prof: "",
   subject: "",
   doc,
 ) = {
