@@ -12,8 +12,6 @@
   doc,
   subject: "Technische Informatik",
   date: "6. Juni 2025",
-  prof: "Prof. Dr. Christoph Scholl",
-  semester: "SS 2025",
   title: "Übungsblatt 5",
 )
 
